@@ -14,4 +14,5 @@ git fetch
 
 ```
 test merge
+add pull
 ```
